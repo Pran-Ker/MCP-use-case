@@ -1,3 +1,5 @@
+This Repo was created entirely with a GitHub MCP integration in Cursor, it create the repo and intialized the README.md. As you can see if you go back couple of commits, it makes a couple of issues. But this is still insane imo.
+
 # MCP Use Case
 
 This repository demonstrates various use cases and examples for Model Context Protocol (MCP) integration.
