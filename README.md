@@ -1,6 +1,6 @@
 # MCP Use Case
 
-This repository demonstrates various use cases and examples for MCP (Multi-Cloud Platform) integration.
+This repository demonstrates various use cases and examples for Model Context Protocol (MCP) integration.
 
 ## Getting Started
 
